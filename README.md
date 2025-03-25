@@ -26,7 +26,7 @@ The dataset contains various backpack attributes such as:
 ## Installation Guide
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/BackpackPricePrediction.git
+   git clone https://github.com/AkinduIB/BackpackPricePrediction.git
    cd BackpackPricePrediction
    ```
 2. **Install dependencies:**
@@ -49,7 +49,7 @@ The dataset contains various backpack attributes such as:
 
 ## Screenshots
 **Command-Line Interface Example:**
-![CLI Screenshot](./code9.png)
+![CLI Screenshot](./code.png)
 
 ## Model Performance
 - **Mean Absolute Error (MAE):** _value_
