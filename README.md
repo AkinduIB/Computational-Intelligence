@@ -49,7 +49,7 @@ The dataset contains various backpack attributes such as:
 
 ## Screenshots
 **Command-Line Interface Example:**
-![CLI Screenshot](./code 9.png/)
+![CLI Screenshot](./code9.png)
 
 ## Model Performance
 - **Mean Absolute Error (MAE):** _value_
